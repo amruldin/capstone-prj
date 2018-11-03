@@ -8,7 +8,7 @@
 <body>
 
 <?php
-$connect= mysql_connect ('localhost','amruldin','1!Afghanistan');
+$connect= mysql_connect ('');
 
 $database= mysql_select_db ('ahis');
 
