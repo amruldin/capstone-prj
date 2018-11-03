@@ -1,0 +1,107 @@
+
+.container {
+
+	text-align: center;
+
+	border: solid 2px black;
+
+	background-color: #C0C0C0;
+
+	border-radius: 10px;
+
+
+
+}
+
+.fa-prescription {
+
+	font-size: 100px;
+}
+
+
+.fa-user-md{
+
+	font-size: 100px;
+}
+
+.fa-info{
+
+	font-size: 100px;
+}
+
+.fa-chart-line{
+
+	font-size: 100px;
+}
+
+#ahis{
+	font-size: 100px;
+	color: white;
+}
+
+#ahisFull{
+
+	color: #66ff66;
+	display: none;
+	
+}
+
+.fa-id-card-alt{
+
+	font-size: 100px;
+}
+
+.ul{
+	float: left;
+}
+
+.mission{
+	float: left;
+
+}
+
+.menuControls{
+
+	background-color: #0074D9;
+	padding-left: 20px;
+	text-align: left;
+	border: 2px solid green;
+	
+
+
+}
+.col-4{
+	width: 50px;
+}
+
+.leftBox{
+	width: 220px;
+	height: 20px;
+	display: inline;
+
+
+}
+
+.btn-secondary{
+	width: auto;
+	height: 120px;
+	margin: 10px;
+	background-color: #001f3f;
+	border-radius: 10px;
+}
+
+.modifiedBar{
+	width: auto;
+	
+}
+
+.controls{
+	text-align: center;
+}
+
+.resultsT{
+	text-align: center;
+	width: 800px;
+	margin-bottom: 50px;
+
+}
